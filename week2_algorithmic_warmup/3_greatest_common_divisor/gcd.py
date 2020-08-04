@@ -1,16 +1,32 @@
-# Uses python3
-import sys
+# python3
+
 
 def gcd_naive(a, b):
-    current_gcd = 1
-    for d in range(2, min(a, b) + 1):
-        if a % d == 0 and b % d == 0:
-            if d > current_gcd:
-                current_gcd = d
+    assert 1 <= a <= 2 * 10 ** 9 and 1 <= b <= 2 * 10 ** 9
 
-    return current_gcd
+    for divisor in range(min(a, b), 0, -1):
+        if a % divisor == 0 and b % divisor == 0:
+            return divisor
 
-if __name__ == "__main__":
-    input = sys.stdin.read()
-    a, b = map(int, input.split())
-    print(gcd_naive(a, b))
+    assert False
+
+
+def gcd(a, b):
+    assert 0 <= a <= 2 * 10 ** 9 and 0 <= b <= 2 * 10 ** 9
+
+    # Swap a and b such that b is greater than a
+    if a < b:
+        temp = a
+        a = b
+        b = temp
+
+    # base case
+    if b == 0:
+        return a;
+
+    a = a % b;
+    return gcd(a, b)
+
+if __name__ == '__main__':
+    input_a, input_b = map(int, input().split())
+    print(gcd(input_a, input_b))
