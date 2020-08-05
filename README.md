@@ -2,9 +2,9 @@
 Programming Assignments in C++ and Python for Algorithmic Toolbox on Coursera
 
 ## Week 1 Programming Challenges
-### Problem 1 [Sum of Two Digits] (https://github.com/Wei-Mao/Assignments-for-Algorithmic-Toolbox/tree/master/week1_programming_challenges/1_sum_of_two_digits)
+Problem 1 [Sum of Two Digits](https://github.com/Wei-Mao/Assignments-for-Algorithmic-Toolbox/tree/master/week1_programming_challenges/1_sum_of_two_digits)
 
-### Problem 2 [Maximum Pairwise Product] (https://github.com/Wei-Mao/Assignments-for-Algorithmic-Toolbox/tree/master/week1_programming_challenges/2_maximum_pairwise_product)
+### Problem 2 [Maximum Pairwise Product](https://github.com/Wei-Mao/Assignments-for-Algorithmic-Toolbox/tree/master/week1_programming_challenges/2_maximum_pairwise_product)
 
 ## Week 2 Algorithmic Warm-up
 ### Problem 1 [Fibonacci Number] (https://github.com/Wei-Mao/Assignments-for-Algorithmic-Toolbox/tree/master/week2_algorithmic_warmup/1_fibonacci_number)
