@@ -17,6 +17,8 @@ Problem 4 [Least Common Multiple](https://github.com/Wei-Mao/Assignments-for-Alg
 
 Problem 5 [Fibonacci Number Again](https://github.com/Wei-Mao/Assignments-for-Algorithmic-Toolbox/tree/master/week2_algorithmic_warmup/5_fibonacci_number_again)
 
-Problem 6 [Last Digit of the Sum of Fibonacci Numbers](https://github.com/Wei-Mao/Assignments-for-Algorithmic-Toolbox/tree/master/week2_algorithmic_warmup/6_last_digit_of_the_sum_of_fibonacci_numbers)
-Problem 7 [Last Digit of the Sum of Fibonacci Numbers](https://github.com/Wei-Mao/Assignments-for-Algorithmic-Toolbox/tree/master/week2_algorithmic_warmup/7_last_digit_of_the_sum_of_fibonacci_numbers_again)</br>
+Problem 6 [Last Digit of the Sum of Fibonacci Numbers](https://github.com/Wei-Mao/Assignments-for-Algorithmic-Toolbox/tree/master/week2_algorithmic_warmup/6_last_digit_of_the_sum_of_fibonacci_numbers)  
+
+Problem 7 [Last Digit of the Sum of Fibonacci Numbers](https://github.com/Wei-Mao/Assignments-for-Algorithmic-Toolbox/tree/master/week2_algorithmic_warmup/7_last_digit_of_the_sum_of_fibonacci_numbers_again)
+
 Problem 8 [Last Digit of the Sum of squares of Fibonacci Numbers](https://github.com/Wei-Mao/Assignments-for-Algorithmic-Toolbox/tree/master/week2_algorithmic_warmup/8_last_digit_of_the_sum_of_squares_of_fibonacci_numbers)
