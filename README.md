@@ -1,6 +1,6 @@
 # Algorithmic Toolbox
 Programming Assignments in C++ and Python for Algorithmic Toolbox on Coursera
-
+[Coursera Certificate for Algorithmic Toolbox](https://coursera.org/share/2dc26c9aaac3baa0cbe74381f99f2eb9)  
 ## Week 1 Programming Challenges
 Problem 1 [Sum of Two Digits](https://github.com/Wei-Mao/Assignments-for-Algorithmic-Toolbox/tree/master/week1_programming_challenges/1_sum_of_two_digits)
 
